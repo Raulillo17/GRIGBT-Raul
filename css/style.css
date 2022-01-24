@@ -1,0 +1,15 @@
+.bg-morado{
+    background-color: blueviolet;
+}
+.bg-gris{
+    background-color: gray;
+}
+.redondo{
+    border-radius: 200px;
+}
+.izq img{
+    float: left;
+}
+.borde1{
+    border-width: 4px !important; 
+}
